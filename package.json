@@ -1,0 +1,11 @@
+{
+  "name": "envboundary-cli-20261020",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "git-remote": "git-remote.sh"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  }
+}
